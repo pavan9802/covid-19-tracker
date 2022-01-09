@@ -1,5 +1,6 @@
 
-#This is a Web app that displays Covid-19 data using React.js, Open Disease Data API, React Leaflet. 
+#This is a Web app that displays Covid-19 data using React.js, Open Disease Data API, React Leaflet.
+
 # Some data may not appear as countries release data at various times during the data
 
 
