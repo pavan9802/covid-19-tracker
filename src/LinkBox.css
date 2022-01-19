@@ -1,0 +1,9 @@
+a:link {
+    text-decoration: none;
+}
+a:hover {
+    font-weight: bold;
+}
+li{
+    margin-top: 25px 
+}
