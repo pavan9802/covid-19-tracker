@@ -33,13 +33,13 @@ function App() {
   const [countryVacs, setCountryVacs] = useState(0);
 
   const firebaseConfig = {
-    apiKey: "AIzaSyBZAX7Iq5i_t5n69P7J7xm6AflGMH1A368",
-    authDomain: "covid19-tracker-4e1c2.firebaseapp.com",
-    projectId: "covid19-tracker-4e1c2",
-    storageBucket: "covid19-tracker-4e1c2.appspot.com",
-    messagingSenderId: "655063081856",
-    appId: "1:655063081856:web:b4d6d38d8753ccdcb55765",
-    measurementId: "G-C95QBMTPS5"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
   };
   
   // Initialize Firebase
